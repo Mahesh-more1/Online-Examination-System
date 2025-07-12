@@ -1,0 +1,434 @@
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2980b9;
+    --correct-color: #2ecc71;
+    --incorrect-color: #e74c3c;
+    --marked-color: #f39c12;
+    --unanswered-color: #95a5a6;
+    --light-gray: #ecf0f1;
+    --dark-gray: #34495e;
+    --white: #ffffff;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  body {
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* Start Screen Styles */
+  .start-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(236, 240, 241, 0.9);
+  }
+  
+  .start-container {
+    background-color: var(--white);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 90%;
+    text-align: center;
+  }
+  
+  .start-container h1 {
+    color: var(--primary-color);
+    margin-bottom: 20px;
+    font-size: 28px;
+  }
+  
+  .start-container p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: var(--dark-gray);
+  }
+  
+  .instructions {
+    text-align: left;
+    margin: 30px 0;
+    padding: 20px;
+    background-color: var(--light-gray);
+    border-radius: 5px;
+  }
+  
+  .instructions h3 {
+    margin-bottom: 10px;
+    color: var(--dark-gray);
+  }
+  
+  .instructions ul {
+    margin-left: 20px;
+  }
+  
+  .instructions li {
+    margin-bottom: 8px;
+  }
+  
+  .start-btn {
+    padding: 12px 30px;
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .start-btn:hover {
+    background-color: var(--secondary-color);
+  }
+  
+  /* Exam Container */
+  .exam-container {
+    background-color: var(--white);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: none; /* Hidden initially */
+  }
+  
+  .exam-header {
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .exam-header h1 {
+    font-size: 24px;
+  }
+  
+  .timer-container {
+    background-color: var(--secondary-color);
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .exam-body {
+    display: flex;
+    min-height: 500px;
+  }
+  
+  /* Question Navigation */
+  .question-nav {
+    width: 300px;
+    background-color: var(--light-gray);
+    padding: 20px;
+    border-right: 1px solid #ddd;
+    max-height: 645px;
+    height: 100%;
+    overflow-y: auto;
+  }
+  
+  .question-nav h3 {
+    margin-bottom: 15px;
+    color: var(--dark-gray);
+  }
+  
+  .nav-buttons {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+  }
+  
+  .nav-btn {
+    width: 100%;
+    height: 40px;
+    border: none;
+    background-color: var(--white);
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .nav-btn:hover {
+    background-color: #ddd;
+  }
+  
+  .nav-btn.answered {
+    background-color: var(--primary-color);
+    color: var(--white);
+  }
+  
+  .nav-btn.marked {
+    background-color: var(--marked-color);
+    color: var(--white);
+  }
+  
+  /* Question Area */
+  .question-area {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .progress-container {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .progress-bar {
+    flex: 1;
+    height: 10px;
+    background-color: var(--light-gray);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .progress-bar div {
+    height: 100%;
+    background-color: var(--primary-color);
+    width: 0%;
+    transition: width 0.3s ease;
+  }
+  
+  #progress-text {
+    font-weight: bold;
+    color: var(--dark-gray);
+  }
+  
+  .question-container {
+    flex: 1;
+  }
+  
+  #question-number {
+    color: var(--dark-gray);
+    margin-bottom: 15px;
+  }
+  
+  #question-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  /* Question Image */
+  .question-image-container {
+    margin: 15px 0;
+    text-align: center;
+  }
+  
+  .question-image {
+    max-width: 100%;
+    max-height: 300px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-error {
+    color: var(--incorrect-color);
+    font-style: italic;
+    padding: 10px;
+    background-color: rgba(231, 76, 60, 0.1);
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
+  /* Options */
+  .options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .option {
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    background-color: var(--light-gray);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .option:hover {
+    background-color: #ddd;
+  }
+  
+  .option input {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .option-label {
+    font-weight: bold;
+    margin-right: 5px;
+    color: var(--primary-color);
+  }
+  
+  /* Action Buttons */
+  .fixed-action-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 10px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s ease;
+  }
+  
+  .btn:not(.submit-btn) {
+    background-color: var(--primary-color);
+    color: var(--white);
+  }
+  
+  .btn:hover {
+    opacity: 0.9;
+  }
+  
+  .btn:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+  }
+  
+  .mark-btn {
+    background-color: var(--marked-color);
+    color: var(--white);
+  }
+  
+  .submit-btn {
+    background-color: var(--incorrect-color);
+    color: var(--white);
+  }
+  
+  /* Results Modal */
+  .modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content {
+    background-color: var(--white);
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+  }
+  
+  .modal-content h2 {
+    margin-bottom: 20px;
+    color: var(--dark-gray);
+  }
+  
+  .result-stats {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .result-stats p {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .correct {
+    color: var(--correct-color);
+    font-weight: bold;
+  }
+  
+  .incorrect {
+    color: var(--incorrect-color);
+    font-weight: bold;
+  }
+  
+  .unanswered {
+    color: var(--unanswered-color);
+    font-weight: bold;
+  }
+  
+  .score {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    color: var(--primary-color);
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .exam-body {
+      flex-direction: column;
+    }
+  
+    .question-nav {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid #ddd;
+      height: 180px;
+    }
+  
+    .nav-buttons {
+      grid-template-columns: repeat(10, 1fr);
+    }
+  
+    .fixed-action-buttons {
+      flex-wrap: wrap;
+    }
+  
+    .btn {
+      flex: 1;
+      margin-bottom: 10px;
+    }
+  
+    .question-image {
+      max-height: 200px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .nav-buttons {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  
+    .exam-header {
+      flex-direction: column;
+      gap: 10px;
+      padding: 10px;
+    }
+  
+    .exam-header h1 {
+      font-size: 1.2rem;
+    }
+  
+    .timer-container {
+      padding: 5px 10px;
+    }
+  }

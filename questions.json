@@ -1,0 +1,649 @@
+[
+  {
+    "question": "Which of the following number is NOT divisible by 8?",
+    "choices": ["35792", "35112", "35412", "35552"],
+    "correctAnswer": "35412"
+  },
+  {
+    "question": "One-fourth of a number is equal to three-eighth of another number. If 30 is added to the first number, then it becomes six times that of the second number. The first number is:",
+    "choices": ["12", "20", "10", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Which of the following fractions is the largest?",
+    "choices": ["7/9", "6/7", "22/25", "11/13"],
+    "correctAnswer": "6/7"
+  },
+  {
+    "question": "The value of 0.16 + 0.15 - 0.13 is",
+    "choices": ["23", "17", "63", "90"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "The sum of a fraction and its inverse is 2.25 ⋅ 66. Find the greater number of the two:",
+    "choices": ["1.5 ⋅ 22", "1.5 ⋅ 6", "1.20 ⋅ 33", "1.5 ⋅ 11"],
+    "correctAnswer": "1.5 ⋅ 6"
+  },
+  {
+    "question": "If 2334/33.1 = 261, then 23.34/3.31 = ?",
+    "choices": ["0.261", "2.61", "26.1", "261"],
+    "correctAnswer": "26.1"
+  },
+  {
+    "question": "The LCM of the numbers 36, 54, 72 and 96 is:",
+    "choices": ["1064", "764", "864", "964"],
+    "correctAnswer": "864"
+  },
+  {
+    "question": "Three numbers are in the ratio 4 : 5 : 7, and their LCM is 5600. Their HCF is:",
+    "choices": ["40", "10", "20", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Find the LCM of 17/31, 34/62 and 48/93.",
+    "choices": ["816/31", "802/31", "912/31", "804/31"],
+    "correctAnswer": "816/31"
+  },
+  {
+    "question": "What is the smallest number with 7 factors exactly?",
+    "choices": ["100", "36", "64", "16"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "64 students of Class 10 took part in a mathematics quiz. If the number of girls was 16 more than the number of boys, then find the ratio of the number of boys to the total number of students who took part in the quiz.",
+    "choices": ["4 : 9", "3 : 5", "3 : 8", "5 : 8"],
+    "correctAnswer": "3 : 8"
+  },
+  {
+    "question": "The ratio of the sum of money Arun and Ahaan had is 9 : 5. If Arun gives ₹12 from his share to Ahaan, then the ratio will change to 4 : 3. How much money did Arun have initially?",
+    "choices": ["₹144", "₹126", "₹108", "₹90"],
+    "correctAnswer": "₹108"
+  },
+  {
+    "question": "20% of the population of a city died due to war and of the remaining population, 5% died in an epidemic. If the present population of the city is 15,200, then find the population of the city before the war.",
+    "choices": ["20,000", "19,680", "23,500", "20,100"],
+    "correctAnswer": "20,000"
+  },
+  {
+    "question": "The cost of a washing machine is 40% less than the cost of a TV. If the cost of the washing machine increases by 18% and that of the TV decreases by 10%, then what is the change in the total cost of 5 washing machines and 2",
+    "choices": [
+      "Decreases by 6.5%",
+      "Decreases by 6.4%",
+      "Increases by 6.5%",
+      "Increases by 6.8%"
+    ],
+    "correctAnswer": "Increases by 6.8%"
+  },
+  {
+    "question": "The length of the three sides of a triangle are 12 cm, 15 cm and 21 cm, respectively. Find the area (in cm^3) of the triangle.",
+    "choices": ["36√6", "30√6", "72√6", "48√6"],
+    "correctAnswer": "36√6"
+  },
+  {
+    "question": "A rectangle has a length 3m more than its width and a perimeter numerically equal in value to its area. The integer part of the value of its diagonal is:",
+    "choices": ["7", "9", "8", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "A can do a piece of work in 15 day and B can do the same work in 20 days. The time taken by them working together to do the same work is:",
+    "choices": ["4/7 days", "10 4/7 days", "8 4/7 days", "9 4/7 days"],
+    "correctAnswer": "8 4/7 days"
+  },
+  {
+    "question": "A can do a piece of work in 24 days and B can do 2/5 of the same work in 12 days. Both work together for 6 days. How much work is still left?",
+    "choices": ["17/20", "13/20", "11/20", "9/20"],
+    "correctAnswer": "11/20"
+  },
+  {
+    "question": "A student reaches school on his bicycle in 3/2 hours at a speed of 8 km/h. On the return journey he rests for half an hour and takes a route which is 1 km shorter. What should be the percentage increase in the speed of the bicycle so that he reaches home in the same time?",
+    "choices": ["37%", "37.5%", "30.5%", "35%"],
+    "correctAnswer": "37.5%"
+  },
+  {
+    "question": "On increasing the speed 5 km/hr of a train, it takes 2 hour less in covering a distance of 300 km. Find its general speed?",
+    "choices": ["30 km/hr", "25 km/hr", "20 km/hr", "35 km/hr"],
+    "correctAnswer": "25 km/hr"
+  },
+  {
+    "question": "The compound interest on a sum of money at 5% per annum for 3 years is ₹6305. Find the simple interest (in ₹) for the same sum at the same rate of interest for the same number of years.",
+    "choices": ["54,000", "76,000", "75,000", "73,600"],
+    "correctAnswer": "54,000"
+  },
+  {
+    "question": "A certain sum was invested at 40% p.a compound interest for two years and the interest was compounded annually. If the interest was compounded half-yearly, the amount payable at maturity after two years would have been ₹44 more. What was the sum invested?",
+    "choices": ["42,500", "40,000", "42,000", "37,500"],
+    "correctAnswer": "40,000"
+  },
+  {
+    "question": "The selling price of 32 items is equal to the cost price of 38 items. Find the profit percentage.",
+    "choices": ["16.25%", "15.79%", "18.75%", "19.25%"],
+    "correctAnswer": "18.75%"
+  },
+  {
+    "question": "Pavan sold an item at a loss of 12.5%. If he could have sold it for ₹56 more, he would have made a profit of 22.5%. What should be the selling price of the item to make a profit of 25%?",
+    "choices": ["₹182", "₹190", "₹185", "₹200"],
+    "correctAnswer": "₹200"
+  },
+  {
+    "question": "(1 - 1/n) + (1 - 2/n) + (1 - 3/n) + ... up to n terms will result as:",
+    "choices": ["1/2n", "1/2n-1", "1/n^2", "(n-1)/2"],
+    "correctAnswer": "(n-1)/2"
+  },
+  {
+    "question": "If x² + ax + b, divided by x - 3, leaves a remainder of 22, and x² + bx + a, when divided by x - 3, leaves a remainder of 24. What is the value of a + b?",
+    "choices": ["23", "-23", "-7", "7"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Find the value of (sin θ + cosec θ)² + (cos θ + sec θ)²",
+    "choices": [
+      "7 + cot²θ + tan²θ",
+      "5 + cot²θ + tan²θ",
+      "7 - cot²θ + tan²θ",
+      "5 - cot²θ + tan²θ"
+    ],
+    "correctAnswer": "7 + cot²θ + tan²θ"
+  },
+  {
+    "question": "In triangle ABC, if the angles are in the ratio 4 : 3 : 5, find the angles.",
+    "choices": [
+      "20°, 50°, 70°",
+      "60°, 45°, 75°",
+      "20°, 15°, 25°",
+      "40°, 30°, 50°"
+    ],
+    "correctAnswer": "60°, 45°, 75°"
+  },
+  {
+    "question": "If the mean of numbers 33, x, 47, 83, and 109 is 67, what is the mean of 50, 64, 100, 126, and x?",
+    "choices": ["84", "81.8", "80.6", "80"],
+    "correctAnswer": "80.6"
+  },
+  {
+    "question": "The maximum weight lifted by 750 participants are recorded. The Mean and Median are 184 Kg and 178 Kg respectively, both more than the Mode. Which is the most likely value of the Mode (in Kg)?",
+    "choices": ["168", "166", "162", "172"],
+    "correctAnswer": "166"
+  },
+  {
+    "question": "Gravity : Discovery :: Telephone : ?",
+    "choices": ["Experiment", "Explore", "Construct", "Invention"],
+    "correctAnswer": "Invention"
+  },
+  {
+    "question": "Heart is related to 'Cardiology' in the same way as kidney is related to",
+    "choices": ["Nuclear Medicine", "Nephrology", "Neurology", "Rheumatology"],
+    "correctAnswer": "Nephrology"
+  },
+  {
+    "question": "ABC : EFG :: PQR : TUV. Which pair follows the same logic?",
+    "choices": ["XYZ : BCD", "PKL : RSM", "MNO : PQR", "GHI : DEF"],
+    "correctAnswer": "XYZ : BCD"
+  },
+  {
+    "question": "343 : 1331 :: 729 : ?",
+    "choices": ["2187", "2197", "2184", "2211"],
+    "correctAnswer": "2197"
+  },
+  {
+    "question": "In a certain code language, TOUGH is written as 20152178 and PLEAD as 1612514. How is CLOVE written?",
+    "choices": ["31115215", "31215225", "31215224", "31315235"],
+    "correctAnswer": "31215225"
+  },
+  {
+    "question": "If 'SKIRT' is coded as 'MECLN', how is 'BLOUSE' coded?",
+    "choices": ["VFIMOV", "VFOMIY", "VFIOMY", "VFMOIY"],
+    "correctAnswer": "VFIOMY"
+  },
+  {
+    "question": "In a certain code language, 'cip civ cin' is written as 'life is good', 'cip cin er' is written as 'love is life'. How will 'love' be written in that language?",
+    "choices": ["cip", "cob", "ch", "er"],
+    "correctAnswer": "er"
+  },
+  {
+    "question": "The word ORANGE has been coded using 4 different codes. Code 1: PSBOHF, Code 2: NZQMFD, Code 3: QTCPG, Code 4: PTDRLK. Which of the given codes is used to write the word FISH or GKVL?",
+    "choices": ["Code 2", "Code 1", "Code 4", "Code 3"],
+    "correctAnswer": "Code 2"
+  },
+  {
+    "question": "Among the four words listed below, three are alike in some manner and one is different. Select the odd one.",
+    "choices": ["Fear", "Intelligence", "Happiness", "Anger"],
+    "correctAnswer": "Intelligence"
+  },
+  {
+    "question": "Four figures have been given, out of which three are alike in some manner and one is different. Select the odd one.",
+    "choices": ["Figure A", "Figure B", "Figure C", "Figure D"],
+    "correctAnswer": "Figure A",
+    "image": "img/q40.png"
+  },
+  {
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following series: 22, 23, 26, 27, 30, 31, ?",
+    "choices": ["31", "35", "34", "33"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following table.",
+    "choices": ["25", "27", "22", "20"],
+    "correctAnswer": "22",
+    "image": "img/q42.png"
+  },
+  {
+    "question": "Study the given pattern carefully and select the number that can replace the question mark (?) in it.",
+    "choices": ["12", "15", "18", "21"],
+    "correctAnswer": "15",
+    "image": "img/q43.png"
+  },
+  {
+    "question": "Mahesh was facing east when he started from home. He took two right turns and one left turn to reach his school. In which direction is he facing after reaching his school?",
+    "choices": ["North", "South", "West", "East"],
+    "correctAnswer": "South"
+  },
+  {
+    "question": "Pointing to a photograph, Rohit said, 'She is the daughter of the only son of my father.' How is Rohit related to the girl in the photograph?",
+    "choices": ["Cousin", "Brother", "Father", "Uncle"],
+    "correctAnswer": "Father"
+  },
+  {
+    "question": "If G stands for 'add', H stands for 'multiply', J stands for 'subtract' and K stands for 'division' then find the value of 125 J 110K5G7H2",
+    "choices": ["117", "133", "89", "114"],
+    "correctAnswer": "117"
+  },
+  {
+    "question": "Select the Venn diagram that best represents the relationship between computers, desktop and laptops.",
+    "choices": ["Option A", "Option B", "Option C", "Option D"],
+    "correctAnswer": "Option C",
+    "image": "img/q47.png"
+  },
+  {
+    "question": "Study the given figure and answer: Which area represents students who are musicians but not players?",
+    "choices": ["R", "S", "U", "Q"],
+    "correctAnswer": "Q",
+    "image": "img/q48.png"
+  },
+  {
+    "question": "A team of 7 players is to be selected from P1-P13 with constraints: P2 cannot be with P1/P6/P3; P7 cannot be with P2/P10/P11/P13; If P8&P13 selected then P5 must be selected; P4 cannot be with P2/P6/P12/P11. Which is a valid team?",
+    "choices": [
+      "P1, P3, P4, P5, P8, P9, P13",
+      "P1, P6, P11, P12, P13, P3, P4",
+      "P2, P3, P5, P7, P8, P9, P13",
+      "P1, P3, P4, P5, P6, P8, P9"
+    ],
+    "correctAnswer": "P1, P3, P4, P5, P8, P9, P13"
+  },
+  {
+    "question": "Statements: A. All buses are trucks. B. All trucks are trains. Conclusions: I. No train is bus. II. Some trucks are bus.",
+    "choices": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both conclusion I and II follow",
+      "None of the conclusion follows"
+    ],
+    "correctAnswer": "Only conclusion II follows"
+  },
+  {
+    "question": "Statement: I) All red are pink. J) Some pink are black. J) Some black are blue. J) All blue are white. Conclusion: I. Some black are white. II. Some blue are pink. III. Some pink are red. IV. No red is white.",
+    "choices": [
+      "Only conclusion I and IV are follows",
+      "Only conclusion II and IV are follows",
+      "Only conclusion II follows",
+      "Only conclusion I follows"
+    ],
+    "correctAnswer": "Only conclusion I follows"
+  },
+  {
+    "question": "Statement: Before leaving for college, Sita is learning to cook basic meals from her mother. Conclusions: I. Sita didn't know how to cook. II. Sita wants to throw a party for her friends before leaving for college.",
+    "choices": [
+      "Only conclusion II follows",
+      "Neither conclusion I nor II follows",
+      "Only conclusion I follows",
+      "Both conclusions I and II follow"
+    ],
+    "correctAnswer": "Only conclusion I follows"
+  },
+  {
+    "question": "In a party, each couple has at least one child (minor) and the party has 12 couples (married couples). Then which of these conclusion will be possible?",
+    "choices": [
+      "There are at least 24 men in the party",
+      "There are at least 36 person in the party",
+      "There are only 12 men in the party",
+      "There are 22 women in the party"
+    ],
+    "correctAnswer": "There are at least 36 person in the party"
+  },
+  {
+    "question": "Statement: Children below the age of 5 years should not be allowed too much of screen time a day. Assumptions: I. Too much screen time for growing children will affect them adversely. II. Limited screen time is not detrimental to children below 5 years of age.",
+    "choices": [
+      "Neither assumption I nor II is implicit",
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Both assumption I and II are implicit"
+    ],
+    "correctAnswer": "Both assumption I and II are implicit"
+  },
+  {
+    "question": "If a sum of money is lent at simple interest, then the: Statements: 1. Money gets doubled in 6 years if the rate of interest is 16%. 2. Money gets doubled in 5 years if the rate of interest is 18%.",
+    "choices": [
+      "Both statements 1 and 2 are incorrect",
+      "Only statement 1 is correct",
+      "Only statement 2 is correct",
+      "Statement 1 and 2 are correct"
+    ],
+    "correctAnswer": "Both statements 1 and 2 are incorrect"
+  },
+  {
+    "question": "Each consonant in the word 'COMPARE' is changed to the letter following it in the English alphabetical order, and each vowel is changed to the letter preceding it in the English alphabetical order. Which of the following letters will appear twice in the group of letters thus formed?",
+    "choices": ["Only Q", "Only D", "D and N", "Only N"],
+    "correctAnswer": "D and N"
+  },
+  {
+    "question": "Of the three given equations, the first two are solved on the basis of a certain system. Find the correct answer for the unsolved third equation on the same basis. 32 x 34 = 96; 25 x 14 = 29; 18 x 51 = ?",
+    "choices": ["58", "15", "18", "59"],
+    "correctAnswer": "59"
+  },
+  {
+    "question": "Find the number of triangles in the diagram given below:",
+    "choices": ["29", "32", "31", "30"],
+    "correctAnswer": "32",
+    "image": "img/q58.png"
+  },
+  {
+    "question": "If today is Thursday, what will be the day after 560 days?",
+    "choices": ["Thursday", "Friday", "Wednesday", "Sunday"],
+    "correctAnswer": "Thursday"
+  },
+  {
+    "question": "The pie chart shows expenditure distribution of a party: Decoration (19%), DJ (31%), Food (44%), Venue (6%). How much was spent on decoration and DJ together if total expenditure was $32,700?",
+    "choices": ["$7359", "$8175", "$8347", "$7725"],
+    "correctAnswer": "$8175",
+    "image": "img/q60.png"
+  },
+  {
+    "question": "During the Indus Valley period, from where were the shells procured for craft production?",
+    "choices": ["Jaipur", "Shortughai", "Nageshwar", "Ropar"],
+    "correctAnswer": "Nageshwar"
+  },
+  {
+    "question": "Most Ashokan inscriptions were in the ______ language while those in the northwest were in Aramaic and Greek:",
+    "choices": ["Tamil", "Prakrit", "Sanskrit", "Pali"],
+    "correctAnswer": "Prakrit"
+  },
+  {
+    "question": "Which of the following literature is not written in Sanskrit?",
+    "choices": ["Tirukkural", "Ratnavali", "Rajatarangini", "Meghdoot"],
+    "correctAnswer": "Tirukkural"
+  },
+  {
+    "question": "When was Goa captured by the Portuguese?",
+    "choices": ["1605 AD", "1590 AD", "1510 AD", "1485 AD"],
+    "correctAnswer": "1510 AD"
+  },
+  {
+    "question": "George Lemaitre is associated with ______.",
+    "choices": [
+      "The Big Bang Theory",
+      "Invention of electric current",
+      "Deoxyribonucleic acid",
+      "Discovery of solar system"
+    ],
+    "correctAnswer": "The Big Bang Theory"
+  },
+  {
+    "question": "Which country is known as 'Hermit Kingdom'?",
+    "choices": ["North Korea", "Australia", "Japan", "Thailand"],
+    "correctAnswer": "North Korea"
+  },
+  {
+    "question": "Cape Comorin, the southernmost tip of mainland India is located in which state?",
+    "choices": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Karnataka"],
+    "correctAnswer": "Tamil Nadu"
+  },
+  {
+    "question": "Which committee recommended Fundamental Duties be included in the Constitution of India?",
+    "choices": [
+      "JB Kirpalani Committee",
+      "Swaran Singh Committee",
+      "AV Thakkar Committee",
+      "HC Mookherjee Committee"
+    ],
+    "correctAnswer": "Swaran Singh Committee"
+  },
+  {
+    "question": "In whom does the supreme command of the Defence Forces of the Union vest as per the Constitution of India?",
+    "choices": [
+      "Chief of the Army Staff",
+      "President",
+      "Prime Minister",
+      "Defence Minister"
+    ],
+    "correctAnswer": "President"
+  },
+  {
+    "question": "Which one of the following is not a Bretton Woods institution?",
+    "choices": [
+      "World Bank",
+      "International Monetary Fund",
+      "World Trade Organisation",
+      "United Nations"
+    ],
+    "correctAnswer": "World Trade Organisation"
+  },
+  {
+    "question": "What does NASA hope to achieve by launching the Hello Swarm research mission?",
+    "choices": [
+      "Improving understanding of the Sun's dynamics",
+      "Understanding seasonal episodes of Pluto",
+      "Improving understanding of Mars",
+      "Improving understanding of Ionosphere"
+    ],
+    "correctAnswer": "Improving understanding of the Sun's dynamics"
+  },
+  {
+    "question": "India is not a member of which of these groups?",
+    "choices": [
+      "SAARC",
+      "ASEAN",
+      "Shanghai Cooperation Organization",
+      "BIMSTEC"
+    ],
+    "correctAnswer": "ASEAN"
+  },
+  {
+    "question": "The inputs used in production of goods/services to make economic profit are known as:",
+    "choices": [
+      "Factors of production",
+      "Factors of supply",
+      "Factors of presentation",
+      "Factors of sales"
+    ],
+    "correctAnswer": "Factors of production"
+  },
+  {
+    "question": "What is the full form of SIDBI?",
+    "choices": [
+      "Small Industries and Domestic Bank of India",
+      "Small Inter Development Bank of India",
+      "Small Industries Development Bank of India",
+      "Small Indian Development Bank for Industry"
+    ],
+    "correctAnswer": "Small Industries Development Bank of India"
+  },
+  {
+    "question": "Who played the shehnai at Red Fort during India's independence celebration in 1947?",
+    "choices": [
+      "Ali Ahmed Hussain Khan",
+      "Anant Lal",
+      "Bismillah Khan",
+      "Vasant Desai"
+    ],
+    "correctAnswer": "Bismillah Khan"
+  },
+  {
+    "question": "Where is the National Library of India located?",
+    "choices": ["Kolkata", "New Delhi", "Chennai", "Mumbai"],
+    "correctAnswer": "Kolkata"
+  },
+  {
+    "question": "How many language universities are located in India as of June 2022?",
+    "choices": ["6", "16", "26", "20"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "The Dree Festival, an important agricultural festival, is primarily celebrated by the Apatani tribe in the state of…",
+    "choices": ["Kerala", "Madhya Pradesh", "West Bengal", "Arunachal Pradesh"],
+    "correctAnswer": "Arunachal Pradesh"
+  },
+  {
+    "question": "Who among the following is NOT a Nobel Prize winner?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Kailash Satyarthi",
+      "Rabindranath Tagore",
+      "Amartya Sen"
+    ],
+    "correctAnswer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Who is the author of the book ‘Lady Doctors: The Untold Stories of India’s First Women in Medicine’?",
+    "choices": ["Kunal Basu", "Kavitha Rao", "Anuradha Roy", "Jairam Ramesh"],
+    "correctAnswer": "Kavitha Rao"
+  },
+  {
+    "question": "Every year, ‘Parakram Diwas’ is celebrated on the birth anniversary of which Indian Nationalist?",
+    "choices": [
+      "Rani Lakshmi Bai",
+      "Bhagat Singh",
+      "Lala Lajpat Rai",
+      "Netaji Subhash Chandra Bose"
+    ],
+    "correctAnswer": "Netaji Subhash Chandra Bose"
+  },
+  {
+    "question": "Dada Saheb Phalke Award is related to which field?",
+    "choices": ["Literature", "Cinema", "Journalism", "Volleyball"],
+    "correctAnswer": "Cinema"
+  },
+  {
+    "question": "Which country has launched the world’s first ‘6G device’ in May, 2024?",
+    "choices": ["Russia", "Indonesia", "Japan", "Australia"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "Who took oath for fourth Prime Minister of ‘Singapore’ in May, 2024?",
+    "choices": [
+      "Lawrence Wong",
+      "Mikhail Mishustin",
+      "Jaremal Manele",
+      "Luis Montenegro"
+    ],
+    "correctAnswer": "Lawrence Wong"
+  },
+  {
+    "question": "The Yellowstone National Park is located in:",
+    "choices": ["USA", "Canada", "Spain", "France"],
+    "correctAnswer": "USA"
+  },
+  {
+    "question": "The S.I. unit of resistivity is:",
+    "choices": ["ohm/m", "ohm", "mho", "ohm m"],
+    "correctAnswer": "ohm m"
+  },
+  {
+    "question": "What is wrong statement about kinetic energy?",
+    "choices": [
+      "During static state the energy contained in the object is called kinetic energy",
+      "The energy received by an object based on its speed is known as kinetic energy",
+      "K.E.=1/2mv^2",
+      "Moving objects have kinetic energy"
+    ],
+    "correctAnswer": "During static state the energy contained in the object is called kinetic energy"
+  },
+  {
+    "question": "Approximate escape velocity on the surface of Earth is:",
+    "choices": ["13.8km/s", "11.2km/s", "4.3km/s", "11.3km/s"],
+    "correctAnswer": "11.2km/s"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "choices": [
+      "210°Fahrenheit",
+      "212°Fahrenheit",
+      "211°Fahrenheit",
+      "208°Fahrenheit"
+    ],
+    "correctAnswer": "212°Fahrenheit"
+  },
+  {
+    "question": "If ammonia is a gas then camphor is a?",
+    "choices": ["Gas", "Solid", "Liquid", "Semi solid"],
+    "correctAnswer": "Solid"
+  },
+  {
+    "question": "Name the British chemist who presented atomic theory in 1808, on conservation of mass and law of definite proportions, which was a turning point in the study of matter.",
+    "choices": ["Proust", "Lavoisier", "Ernest Rutherford", "John Dalton"],
+    "correctAnswer": "John Dalton"
+  },
+  {
+    "question": "Litmus solution is derived from:",
+    "choices": ["Hydrangea", "Cabbage leaves", "Lichen", "Petunia"],
+    "correctAnswer": "Lichen"
+  },
+  {
+    "question": "Which of the following terms best describes the biological study of animal behaviour?",
+    "choices": ["Ecology", "Ethology", "Entomology", "Ethnology"],
+    "correctAnswer": "Ethology"
+  },
+  {
+    "question": "Parenchyma and collenchyma are the types of:",
+    "choices": ["Vascular", "Mechanical", "Simple permanent", "Nervous"],
+    "correctAnswer": "Simple permanent"
+  },
+  {
+    "question": "The system of scientific naming or nomenclature of organism which we used today was introduced by which of the following scientist?",
+    "choices": [
+      "Carolus Linnaeus",
+      "Marie Curie",
+      "George Washington Carver",
+      "Charles Darwin"
+    ],
+    "correctAnswer": "Carolus Linnaeus"
+  },
+  {
+    "question": "Which of the following has maximum legs?",
+    "choices": ["Spider", "Millipede", "Centipede", "Hunting moth"],
+    "correctAnswer": "Millipede"
+  },
+  {
+    "question": "Which of the following statements is correct with reference to aerobic respiration?",
+    "choices": [
+      "The release of energy in aerobic respiration is lower than that in anaerobic respiration",
+      "In mitochondria, one molecule of pyruvate breaks down to give three molecules of carbon dioxide",
+      "Only carbon dioxide is released in the process of aerobic respiration",
+      "Aerobic respiration take places in the absence of oxygen"
+    ],
+    "correctAnswer": "In mitochondria, one molecule of pyruvate breaks down to give three molecules of carbon dioxide"
+  },
+  {
+    "question": "Which of the following is the time taken by the CPU to access a location in memory?",
+    "choices": [
+      "Memory formatting time",
+      "Instruction cycle",
+      "Memory access time",
+      "CPU frequency"
+    ],
+    "correctAnswer": "Memory access time"
+  },
+  {
+    "question": "Computer memory is made up of a large number of cells, each cell is capable of storing ___ of information in the form of binary numbers?",
+    "choices": ["One byte", "One bit", "Two bits", "One nibble"],
+    "correctAnswer": "One bit"
+  },
+  {
+    "question": "Who has coined the term ‘ecology’?",
+    "choices": [
+      "Charles Darwin",
+      "Eugenius Warming",
+      "Ernst Haeckel",
+      "Carolus Linnaeus"
+    ],
+    "correctAnswer": "Ernst Haeckel"
+  }
+]
