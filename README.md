@@ -1,4 +1,3 @@
-````markdown
 # Online Examination System
 
 The **Online Examination System** is a web-based application designed to conduct timed exams with a user-friendly interface. It supports **100 multiple-choice questions**, a **90-minute timer**, **question navigation**, **marking for review**, and **result display**. The system includes **image-based questions** stored in a JSON file for dynamic loading.
