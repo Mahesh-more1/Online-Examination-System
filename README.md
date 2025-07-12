@@ -39,10 +39,10 @@ Ensure you have:
 ## 🚀 Installation
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/Mahesh-more1/online-examination-system.git
    ```
-````
 
 2. **Navigate to the Project Directory**
 
@@ -77,8 +77,8 @@ Ensure you have:
 
 #### Example:
 
-> "What is 2 + 2?"
-> Options: \[1], \[2], \[3], \[4]
+> "What is 2 + 2?"  
+> Options: [1], [2], [3], [4]
 
 Or image-based:
 
@@ -105,7 +105,7 @@ online-examination-system/
 
 We welcome contributions!
 
-1. **Fork** the repo
+1. **Fork** the repo  
 2. Create a branch:
 
    ```bash
@@ -132,7 +132,7 @@ We welcome contributions!
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
 See `LICENSE.md` for more info.
 
 ---
@@ -147,18 +147,13 @@ See `LICENSE.md` for more info.
 
 ## 📬 Contact
 
-- **Author**: Mahesh More
-- **GitHub**: [Mahesh-more1](https://github.com/Mahesh-more1)
-- **Email**: [mmore2743@gmail.com](mailto:mmore2743@gmail.com)
-- **LinkedIn**: _(www.linkedin.com/in/mahesh-more-616565355)_
+- **Author**: Mahesh More  
+- **GitHub**: [Mahesh-more1](https://github.com/Mahesh-more1)  
+- **Email**: [mmore2743@gmail.com](mailto:mmore2743@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/mahesh-more-616565355](https://www.linkedin.com/in/mahesh-more-616565355)
 
 ---
 
 ## 🗓️ Last Updated
 
 **Date**: July 13, 2025, 12:09 AM IST
-
-```
-
-Let me know if you'd like the Markdown rendered into PDF or customized further (e.g., add screenshots, setup GIFs, or deployment instructions).
-```
