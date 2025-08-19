@@ -30,7 +30,7 @@
   </p>
 
   <p align="center">
-    <a href="https://mahesh-more1.github.io/online-examination-system">🌐 Live Demo</a>
+    <a href="https://mahesh-more1.github.io/Online-Examination-System/">🌐 Live Demo</a>
     ·
     <a href="https://github.com/Mahesh-more1/online-examination-system/issues/new?labels=bug&template=bug-report.md">🐞 Report Bug</a>
     ·
